@@ -1,30 +1,5 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
-      "Genres": [
-        "Crime",
-        "Drama"
-      ],
-      "Directors": [
-        "Andrew Niccol"
-      ],
-      "Writers": [
-        "Andrew Niccol"
-      ],
-      "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
-      ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
-    },
     "tt0167260": {
       "imdbID": "tt0167260",
       "Title": "The Lord of the Rings: The Return of the King",
@@ -58,13 +33,18 @@
       "Title": "Lord of the Flies",
       "Released": "1963-08-12",
       "Runtime": 92,
+      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 67,
+      "imdbRating": 6.9,
       "Genres": [
+        "Action",
         "Adventure",
-        "Drama",
-        "Thriller"
+        "Animation"
       ],
       "Directors": [
-        "Peter Brook"
+        "Peter Brook",
+        "test"
       ],
       "Writers": [
         "William Golding",
@@ -74,11 +54,222 @@
         "James Aubrey",
         "Tom Chapin",
         "Hugh Edwards"
+      ]
+    },
+    "tt0110357": {
+      "imdbID": "tt0110357",
+      "Title": "The Lion King",
+      "Released": "",
+      "Runtime": 88,
+      "Plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 88,
+      "imdbRating": 8.5,
+      "Genres": [
+        "Adventure",
+        "Animation",
+        "Drama"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ],
+      "Writers": [
+        "Irene Mecchi",
+        "Jonathan Roberts",
+        "Linda Woolverton"
+      ],
+      "Actors": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ]
+    },
+    "tt0372784": {
+      "imdbID": "tt0372784",
+      "Title": "Batman Begins",
+      "Released": "15 Jun 2005",
+      "Runtime": 140,
+      "Genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "Directors": [
+        "Christopher Nolan"
+      ],
+      "Writers": [
+        "Bob Kane",
+        "David S. Goyer",
+        "Christopher Nolan"
+      ],
+      "Actors": [
+        "Christian Bale",
+        "Michael Caine",
+        "Ken Watanabe"
+      ],
+      "Plot": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 70,
+      "imdbRating": 8.2
+    },
+    "tt2975590": {
+      "imdbID": "tt2975590",
+      "Title": "Batman v Superman: Dawn of Justice",
+      "Released": "25 Mar 2016",
+      "Runtime": 151,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Zack Snyder"
+      ],
+      "Writers": [
+        "Chris Terrio",
+        "David S. Goyer",
+        "Bob Kane"
+      ],
+      "Actors": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Amy Adams"
+      ],
+      "Plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 44,
+      "imdbRating": 6.4
+    },
+    "tt0399295": {
+      "imdbID": "tt0399295",
+      "Title": "Lord of War",
+      "Released": "16 Sep 2005",
+      "Runtime": 122,
+      "Genres": [
+        "Crime",
+        "Drama"
+      ],
+      "Directors": [
+        "Andrew Niccol"
+      ],
+      "Writers": [
+        "Andrew Niccol"
+      ],
+      "Actors": [
+        "Nicolas Cage",
+        "Ethan Hawke",
+        "Jared Leto"
+      ],
+      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Metascore": 62,
+      "imdbRating": 7.6
+    },
+    "tt0120338": {
+      "imdbID": "tt0120338",
+      "Title": "Titanic",
+      "Released": "19 Dec 1997",
+      "Runtime": 194,
+      "Genres": [
+        "Drama",
+        "Romance"
+      ],
+      "Directors": [
+        "James Cameron"
+      ],
+      "Writers": [
+        "James Cameron"
+      ],
+      "Actors": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane"
+      ],
+      "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Metascore": 75,
+      "imdbRating": 8
+    },
+    "tt18394428": {
+      "imdbID": "tt18394428",
+      "Title": "Titanic 666",
+      "Released": "15 Apr 2022",
+      "Runtime": 91,
+      "Genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "Directors": [
+        "Nick Lyon"
+      ],
+      "Writers": [
+        "Jacob Cooney",
+        "Jason White"
+      ],
+      "Actors": [
+        "Keesha Sharp",
+        "Jamie Bamber",
+        "Lydia Hearst"
+      ],
+      "Plot": "Dark forces from the deep rise to the surface, terrorizing all aboard from Titanic III and threatens to repeat one of history's greatest disasters.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzcxY2RjOWUtZmE2Yy00YTBlLWE4N2UtOTg5NjdiNTFjNzk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": null,
+      "imdbRating": 3.3
+    },
+    "tt0499549": {
+      "imdbID": "tt0499549",
+      "Title": "Avatar",
+      "Released": "18 Dec 2009",
+      "Runtime": 162,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "James Cameron"
+      ],
+      "Writers": [
+        "James Cameron"
+      ],
+      "Actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 83,
+      "imdbRating": 7.9
+    },
+    "tt1630029": {
+      "imdbID": "tt1630029",
+      "Title": "Avatar: The Way of Water",
+      "Released": "16 Dec 2022",
+      "Runtime": 192,
+      "Genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "James Cameron"
+      ],
+      "Writers": [
+        "James Cameron",
+        "Rick Jaffa",
+        "Amanda Silver"
+      ],
+      "Actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "Plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 67,
-      "imdbRating": 6.9
+      "imdbRating": 7.5
     }
   },
   "jane": {
@@ -166,6 +357,62 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
       "imdbRating": 8.5
+    },
+    "tt2975590": {
+      "imdbID": "tt2975590",
+      "Title": "Batman v Superman: Dawn of Justice",
+      "Released": "25 Mar 2016",
+      "Runtime": 151,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Zack Snyder"
+      ],
+      "Writers": [
+        "Chris Terrio",
+        "David S. Goyer",
+        "Bob Kane"
+      ],
+      "Actors": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Amy Adams"
+      ],
+      "Plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 44,
+      "imdbRating": 6.4
+    },
+    "tt5950044": {
+      "imdbID": "tt5950044",
+      "Title": "Superman",
+      "Released": "11 Jul 2025",
+      "Runtime": 129,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "James Gunn"
+      ],
+      "Writers": [
+        "James Gunn",
+        "Jerry Siegel",
+        "Joe Shuster"
+      ],
+      "Actors": [
+        "David Corenswet",
+        "Rachel Brosnahan",
+        "Nicholas Hoult"
+      ],
+      "Plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Metascore": 68,
+      "imdbRating": 7
     }
   }
 }
